@@ -1,9 +1,10 @@
 #!/usr/bin/python
 
 def main(msg):
-    # Add a different comment
-    #print a message
-    # add comment from pycharm
+    # no need a comment
     print msg
+
+def secondary():
+    print "New function"
 
 main("Hello People")
